@@ -1,6 +1,3 @@
-R Code from “The mortality burden of extreme heat in Connecticut: a time series analysis” 
-Emily Goddard, Chengyi Lin, Yiqun Ma, and Kai Chen
-
 --------------------------------------------------------------------------------
 
 This code reproduces the results of an analysis of the mortality burden of heat in Connecticut from 2005 to 2016 published in PLOS Climate: 
